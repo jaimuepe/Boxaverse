@@ -4,6 +4,6 @@
 
 It was developed for Ludum Dare 38, so keep in mind that the code is pretty awful (but functional!)
 
-![A screenshot of the game's second level](boxaverse_screenshot.png?raw=true "Title")
+![A screenshot of the game's second level](boxaverse_screenshot.png?raw=true "A screenshot of the game's second level")
 
 You can play the game here: https://ldjam.com/events/ludum-dare/38/boxaverse
